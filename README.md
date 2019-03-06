@@ -5,4 +5,6 @@ sample project to find the closed meteorite from the zip code!
 
 This project requires Python 3 and the requests package
 
-`python find-meteores.py`
+```
+pipenv install requests
+pipenv run python find_meteors.py
